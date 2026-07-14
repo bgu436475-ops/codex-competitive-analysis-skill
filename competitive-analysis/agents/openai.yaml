@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-First Competitive Analysis"
+  short_description: "Research competitors with traceable evidence"
+  default_prompt: "Use $competitive-analysis to research a competitor and produce an evidence-first report."
